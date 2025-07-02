@@ -18,3 +18,5 @@ Le dashboard est composé de 5 pages :
 3. **BambuLab** : permet de contrôler l’imprimante 3D et d’avoir un aperçu du print en cours.
 4. **Eve** : pour contrôler l’aspirateur robot.
 5. **Systèmes** : pour consulter des informations sur le Raspberry Pi ou encore le Synology.
+
+## Installation
